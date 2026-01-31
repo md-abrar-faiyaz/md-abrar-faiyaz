@@ -1,11 +1,12 @@
-## Hi there 👋. I am Md Abrar Faiyaz! A CSE undergrad student.
+## Hello there 👋! I'm a Computer Science Student & Aspiring Data Scientist
 ### About Me : 
-#### Currently I am working on desktop application using JavaFX. However, Artficial Intelligence charms me and I will hopefully dive in this sector in future. I usually do gaming as a hobby 😃.
+#### *BSC in CSE* [Ongoing]
+#### I am highly passionate about techs such as ML, Deep Learning, Data Science etc. Consequently, I am learning these techs each and every day. I usually do gaming as a hobby 😃.
 ---
 ### 🧑‍🔧 Skills :
-- Programming Languages : Java | C | Python | HTML | CSS
-- Frameworks : JavaFX
-- Tools : Git, IntelliJ, VS Code
+- Programming Languages : Java | Python | HTML | CSS | MySQL | SQLlite | NoSQL
+- Frameworks : JavaFX | Scikit-learn | Pandas | Numpy | Matplotlib
+- Tools : Git, IntelliJ, VS Code, PyCharm
 - MS Office
 ---
 ### 🏗️ Projects :
