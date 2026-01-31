@@ -10,7 +10,7 @@
 - MS Office
 ---
 ### 🏗️ Projects :
-- Ping Pong (2D Game) : It's basically a childhood game that we used play. For detailed description follow the link github.com/md-abrar-faiyaz/PingPongGame .
+- Ping Pong (2D Game) : It's basically a childhood game that we used to play. For detailed description follow the link github.com/md-abrar-faiyaz/PingPongGame .
 ---
 ### Contact :
 - LinkedIn: linkedin.com/in/mdabrarfaiyaz
